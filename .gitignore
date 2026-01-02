@@ -1,0 +1,17 @@
+# virtual env
+module2_env/
+
+# jupyter
+.ipynb_checkpoints/
+
+# env
+.env
+
+# data files
+*.csv
+*.xlsx
+data/
+
+# macOS
+.DS_Store
+
